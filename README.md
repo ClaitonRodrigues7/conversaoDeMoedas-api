@@ -8,7 +8,7 @@ O projeto foi desenvolvido em JavaScript, estilizado em CSS e feito em HTML.
 
 ### Tecnologias Utilizadas
 
-* [JavaScript]
-* [CSS]
-* [HTML]
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
